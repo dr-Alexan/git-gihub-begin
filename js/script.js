@@ -1,4 +1,5 @@
-'use strict'
+'use strict';
 
-const number = 10;
+let number = 10;
 
+console.log(number);
